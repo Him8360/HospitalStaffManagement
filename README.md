@@ -1,7 +1,6 @@
 # HospitalStaffManagement
 **Description**\
 Implemented  a Hospital staff management using SpringBoot with basic authentication. User have to authenticate  to access the APi's.\
-\
 
 **API Details**\
 "/staff/signin"==>Authenticate the User\
