@@ -2,7 +2,7 @@
 **Description**\
 Implemented  a Hospital staff management using SpringBoot and MySQL  Database with basic authentication. User have to authenticate  to access the endpoints.Every Staff Member  have to register first  to access the api using signup endpoint.This endpoint can be access without authentication.In this endpoint User have to provide basic details like name, email and password. 
 After the Registration they can use the email and password to authenticate to access all other endpoints.\
-**To run this application you have to  provide you database configuration in application.properties file.**
+**To run this application you have to  provide your database configuration in application.properties file.**
 
 **FUNCTIONALITY OF ENDPOINTS**\
 "/staff/signin"==>Authenticate the User\
